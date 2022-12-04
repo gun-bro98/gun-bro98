@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"/>
   <br/>
   <br/>
-  <img src="https://img.shields.io/badge/mongoose-47A248?style=flat-square&logo=mongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=mongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
 <br/>
