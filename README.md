@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=008000&height=400&section=header&text=Welcome%20to%20Gunbro's%20Github%20☺️&fontSize=40&fontColor=fff" />
 </div>
-[![gunbro's GitHub stats](https://github-readme-stats.vercel.app/api?username=gun-bro98&show_icons=true&theme=radical)](https://github.com/gun-bro98/github-readme-stats)
 <h2 align="center">Teck Stack: FE</h2>
 <br/>
 <br/>
@@ -39,11 +38,14 @@
 <br/>
 <br/>
 <br/>
+<div align="center">
+  <a href="https://github.com/gun-bro98/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=gun-bro98&show_icons=true&theme=radical" />
+  </a>
+</div>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gun-bro98&layout=compact" />
 </p>
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=008000&height=200&section=footer" />
 </div>
