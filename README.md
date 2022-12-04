@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=008000&height=400&section=header&text=Welcome%20to%20Gunbro's%20Github%20☺️&fontSize=40&fontColor=fff" />
 </div>
-
+[![gunbro's GitHub stats](https://github-readme-stats.vercel.app/api?username=gun-bro98&show_icons=true&theme=radical)](https://github.com/gun-bro98/github-readme-stats)
 <h2 align="center">Teck Stack: FE</h2>
 <br/>
 <br/>
