@@ -42,9 +42,9 @@
 <br/>
 <br/>
 <h2>My Stat</h2>
-<div align="center">
+<!-- <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=gun-bro98&show_icons=true&theme=city_lights" />
-</div>
+</div> -->
 <br/>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gun-bro98&layout=compact" />
