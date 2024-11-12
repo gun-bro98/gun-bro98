@@ -53,10 +53,12 @@
   <img src="https://capsule-render.vercel.app/api?type=shark&color=008000&height=200&section=footer" />
 </div>
 
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/gun-bro98"
-  width="800"
-  height="400"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/gun-bro98?pet-id=644007521767395726"
+    width="600"
+    height="120"
+  />
 </a>
+  
