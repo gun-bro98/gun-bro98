@@ -55,10 +55,10 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/gun-bro98?pet-id=644007521767395726"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/gun-bro98"
+  width="600"
+  height="300"
+/>
 </a>
   
